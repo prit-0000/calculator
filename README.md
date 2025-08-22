@@ -1,2 +1,2 @@
 # calculator
-This is the calculator of calculate the numbers.
+This is use to calculate the numbers.
